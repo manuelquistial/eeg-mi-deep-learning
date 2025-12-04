@@ -19,7 +19,7 @@ Este proyecto implementa y compara diferentes métodos para clasificar señales 
 
 ### Video Demostrativo
 
-- **Video en YouTube**: [URL del video - Pendiente de agregar]
+- **Video en YouTube**: [URL Video](https://youtu.be/g61bGnO3-uM?si=avNTL-X947_bTu-g)
 
 ## Estructura del Proyecto
 
